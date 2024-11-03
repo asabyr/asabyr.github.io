@@ -4,6 +4,7 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
+- Princeton/IAS Cosmology Lunch (*Princeton, NJ, October 2024*)
 - CMB/LSS discussion group (*DAMTP, Cambridge, UK, September 2024*)
 - Jodrell Bank Centre for Astrophysics seminar (*JBCA, Manchester, UK, September 2024*)
 - New Physics from Old Light: Illuminating the Universe with CMB Secondaries (*KICC, Cambridge, UK, September 2024*)
