@@ -4,6 +4,7 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
+- (invited) AstroParticle Symposium (*Universite Paris-Saclay, Saclay, France, November 2024*)
 - Princeton/IAS Cosmology Lunch (*Princeton, NJ, October 2024*)
 - CMB/LSS discussion group (*DAMTP, Cambridge, UK, September 2024*)
 - Jodrell Bank Centre for Astrophysics seminar (*JBCA, Manchester, UK, September 2024*)
