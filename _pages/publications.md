@@ -8,7 +8,8 @@ author_profile: true
 Up-to-date list of publications can be found via [arXiv](https://arxiv.org/search/astro-ph?searchtype=author&query=Sabyr,+A) or [Insipire HEP](https://inspirehep.net/authors/1915719)
 
 First-author:
-- **A. Sabyr**, J. C. Hill, and  Z. Haiman. "Constraining cosmology with thermal Sunyaev-Zel'dovich maps: Minkowski functionals, peaks, minima, and moments'' (2024). Submitted to Phys. Rev. D, [arXiv:2410.21247](https://arxiv.org/abs/2410.21247).
+- **A. Sabyr**, G. Fabbian, J. C. Hill, and F. Bianchini. "A new constraint on the y-distortion with FIRAS: robustness of component separation methods'' (2025). [arXiv:2508.04593](https://arxiv.org/abs/2508.04593).
+- **A. Sabyr**, J. C. Hill, and  Z. Haiman. "Constraining cosmology with thermal Sunyaev-Zel'dovich maps: Minkowski functionals, peaks, minima, and moments'' (2025). *Phys. Rev. D*, 111, 103536, **Editors' Suggestion**, [arXiv:2410.21247](https://arxiv.org/abs/2410.21247).
 - **A. Sabyr**, C. Sierra, J. C. Hill, and  J. McMahon. "SPECTER: An Instrument Concept for a Spectral Distortion Measurement with Enhanced Sensitivity'' (2024). Submitted to JCAP, [arXiv:2409.12188](https://arxiv.org/abs/2409.12188).
 - **A. Sabyr**, J. C. Hill, and B. Bolliet. "Inverse-Compton Scattering of the Cosmic Infrared Background'' (2022). *Phys. Rev. D*, 106, 023529, [arXiv:2202.02275](https://arxiv.org/abs/2202.02275). 
 - **A. Sabyr**, Z. Haiman, J. M. Z. Matilla, and T. Lu. "Cosmological Constraints from weak lensing peaks: Can halo models accurately predict peak counts?'' (2022). *Phys. Rev. D*, 105, 023505, [arXiv:2109.00547](https://arxiv.org/abs/2109.00547).
