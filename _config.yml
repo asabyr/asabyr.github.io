@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : #"Alina Sabyr"
 title_separator          : "-"
 name                     : &name "Alina Sabyr"
-description              : &description "Cosmology PhD student"
+description              : &description "Cosmologist/BCCP Postdoctoral Fellow"
 url                      : https://asabyr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"" # the subpath of your site, e.g. "/blog"
 repository               : "asabyr/asabyr.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "photo.jpg"
   name             : "Alina Sabyr"
   pronouns         : "she/her/hers"  
-  bio              : "Cosmology PhD student"
-  location         : "New York, NY"
+  bio              : "Cosmologist/BCCP Postdoctoral Fellow"
+  location         : "Berkeley, CA"
   employer         : #""
   uri              : # URL
-  email            : "as6131@columbia.edu"
+  email            : "asabyr@berkeley.edu"
 
   # Academic websites
   arxiv            : "https://arxiv.org/search/astro-ph?searchtype=author&query=Sabyr,+A"
